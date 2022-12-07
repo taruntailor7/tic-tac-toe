@@ -1,5 +1,8 @@
 .Container{
     display: flex;
+    flex-direction: column;
+    width: 350px;
+    align-self: center;
     justify-content: center;
 }
 table td{
